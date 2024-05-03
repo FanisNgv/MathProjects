@@ -1,0 +1,10 @@
+﻿  K-DIGIT LOGIC.cpp
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(236,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(253,72): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(289,28): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(391,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(433,28): warning C4018: '<=': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(572,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(611,30): warning C4018: '<': signed/unsigned mismatch
+C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\K-DIGIT LOGIC\K-DIGIT LOGIC.cpp(715,30): warning C4018: '<': signed/unsigned mismatch
+  K-DIGIT LOGIC.vcxproj -> C:\Users\Фанис Нигамадянов\Desktop\Course 2\Semester_2\Матлогика\K-DIGIT LOGIC\Debug\K-DIGIT LOGIC.exe
